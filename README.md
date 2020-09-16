@@ -11,3 +11,12 @@
 
 ## ERROR OBJECTS 
 ### Error objects can help you find where your mistakes are and browsers have tools to help you read them. 
+
+![even object](https://user-images.githubusercontent.com/70091044/93378664-6ea65000-f865-11ea-8cf2-eb90e166e59c.PNG)
+
+## A DEBUGGING WORKFLOW 
+### Debugging is about deduction: eliminating potential causes of an error. 
+## BROWSER DEV TOOLS & JAVASCRIPT CONSOLE 
+### The JavaScript console will tell you when there is a problem with a script, where to look for the problem, and what kind of issue it seems to be. 
+## TYPING IN THE CONSOLE  
+### You can also just type code into the console and it will show you a result. 
